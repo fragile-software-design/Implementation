@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import com.github.javafaker.Faker;sdasds
 sadsda
-public class Launch {
+public class Launch {asdasd
 
 	public static void main(String[] args) throws InterruptedException{
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Lenovo\\eclipse-workspace\\Automation\\lib\\chromedriver.exe");
