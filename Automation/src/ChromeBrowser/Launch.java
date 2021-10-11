@@ -9,8 +9,8 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import com.github.javafaker.Faker;
-
+import com.github.javafaker.Faker;sdasds
+sadsda
 public class Launch {
 
 	public static void main(String[] args) throws InterruptedException{
